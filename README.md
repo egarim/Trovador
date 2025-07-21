@@ -1,65 +1,83 @@
-# Trovador
+# 🎨 Trovador — Digital Art Vault
 
 A powerful desktop application for exploring and managing your music library with advanced tagging, metadata editing, and organization features.
 
-## Features
+### A nonprofit initiative to preserve cultural heritage using AI, Blockchain, IPFS, and DAO technologies
 
-- **Smart Music Discovery**: Explore your music collection through intelligent browsing
-- **Advanced Tagging**: Edit and manage ID3 tags with batch processing support
-- **Metadata Management**: Complete control over your music metadata
-- **Library Organization**: Keep your music collection perfectly organized
-- **Modern UI**: Built with Electron and React for a smooth, native experience
+---
 
-## Getting Started
+## 🌟 Mission
 
-### Prerequisites
+**Trovador** exists to preserve the cultural memory of humanity by providing museums and educational institutions with free access to cutting-edge digital infrastructure — including AI-powered restoration, decentralized archiving, and community-driven governance.
 
-- Node.js (v14 or higher)
-- npm or yarn
+We are building a resilient, open-source platform to protect, share, and celebrate the world’s art and artifacts — forever.
 
-### Installation
+---
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/trovador.git
+## 🌍 Vision
 
-# Navigate to the project directory
-cd trovador
+We envision a future where no artwork is ever lost or forgotten. Trovador enables museums of all sizes to:
 
-# Install dependencies
-npm install
+- Digitize and archive their collections
+- Analyze and restore art using AI
+- Guarantee authenticity through blockchain
+- Share knowledge globally and permanently via IPFS
+- Govern collaboratively through DAOs
 
-# Start the development server
-npm run dev
-```
+---
 
-### Building
+## 💡 What We Offer
 
-```bash
-# Build for production
-npm run build
+By donating our AI and server infrastructure, we empower museums to:
 
-# Package for distribution
-npm run dist
-```
+### 🖼️ Digital Art Vault
+- High-resolution digital preservation
+- Metadata enrichment using AI
+- Storage on IPFS for decentralized access
+- Provenance and certification on blockchain
+- Smart-contract-based history of restoration and ownership
 
-## Project Structure
+### 🎓 Educational Access Portal
+- AI-generated learning paths and translations
+- Permanent hosting of educational materials on IPFS
+- Community-driven content curation through DAO voting
 
-```
-trovador/
-├── src/
-│   ├── main/           # Electron main process
-│   ├── renderer/       # React application
-│   └── shared/         # Shared utilities and types
-├── public/             # Static assets
-├── scripts/            # Build and utility scripts
-└── dist/              # Build output
-```
+---
 
-## Development
+## 🧱 Technical Foundation
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for development guidelines.
+### ✅ Technologies We Use
 
-## License
+| Component      | Technology                  |
+|----------------|-----------------------------|
+| AI             | ONNX + custom models (C#/.NET) |
+| Blockchain     | Stratis or Private Ethereum with Nethereum |
+| Storage        | IPFS (via .NET wrappers)     |
+| DAO Governance | C#-based voting + Smart Contracts |
+| App Platform   | ASP.NET Core (Dockerized)    |
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
+
+## 🤝 Call to Action
+
+We invite you to join **Trovador**:
+
+- 🧠 Developers — build the code and AI tools in C#
+- 🖥 Infrastructure Donors — run vault, storage, or blockchain nodes
+- 🏛 Cultural Partners — provide archives and artworks
+- 🌍 Volunteers — help with translation, outreach, and research
+- 💸 Donors — support the free preservation of global heritage
+
+Together, we can preserve the past for the future — open, permanent, and just.
+
+---
+
+## 📫 Get Involved
+
+- GitHub: [github.com/trovador-vault](https://github.com/trovador) *(placeholder)*
+- Email: joche@trovador.io 
+- DAO Forum: [dao.trovador.io](https://dao.trovador.io)
+
+---
+
+> **Trovador — Giving voice to forgotten masterpieces.**
