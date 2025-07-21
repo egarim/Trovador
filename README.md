@@ -51,10 +51,10 @@ By donating our AI and server infrastructure, we empower museums to:
 | Component      | Technology                  |
 |----------------|-----------------------------|
 | AI             | ONNX + custom models (C#/.NET) |
-| Blockchain     | Stratis or Private Ethereum with Nethereum |
+| Blockchain     | C# implementation |
 | Storage        | IPFS (via .NET wrappers)     |
 | DAO Governance | C#-based voting + Smart Contracts |
-| App Platform   | ASP.NET Core (Dockerized)    |
+| App Platform   | ASP.NET Core (Dockerized) ,DotNetTool   |
 
 ---
 
