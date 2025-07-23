@@ -74,7 +74,7 @@ Together, we can preserve the past for the future — open, permanent, and just.
 
 ## 📫 Get Involved
 
-- GitHub: [github.com/trovador-vault](https://github.com/trovador) *(placeholder)*
+- GitHub: [github.com/trovador-vault](https://github.com/trovador) 
 - Email: joche@trovador.io 
 - DAO Forum: [dao.trovador.io](https://dao.trovador.io)
 
